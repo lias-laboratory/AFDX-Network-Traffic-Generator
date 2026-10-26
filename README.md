@@ -11,10 +11,10 @@ This repo is the official implementation of *"An Open-Source Configurable Scenar
  
 ```
 @misc{halabi2026afdxgenerator,
-      title={An Open-Source Configurable Scenario Generator for Real-Time Ethernet Networks},
-      author={Zakarya Halabi and Damien Guidolin--Pina and Frédéric Ridouard},
+      title={Automatic Configuration Generation for Real-Time Ethernet Networks},
+      author={Zakarya Halabi and Damien Guidolin-{}-Pina and Frédéric Ridouard},
       year={2026},
-      howpublished={\url{https://forge.lias-lab.fr/afdx-network-traffic-simulator}}
+      howpublished={\url{https://forge.lias-lab.fr/AFDX-Network-Traffic-Generator}}
 }
 ```
 
