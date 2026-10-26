@@ -209,10 +209,8 @@ For each flow, up to `max_essais_admission` attempts (10 by default) are made, r
 
 ## Constraints
 
-- The `ring` topology requires at least 4 switches (`--nb-switch ≥ 4`)
-- The `tree` topology requires at least 3 switches (`--nb-switch ≥ 3`)
+- The topologies require at least 1 switch and 2 end systems
 - BAG values are restricted to powers of 2 within the specified interval
-- Each port capacity is fixed at 100 Mbps by default, and can be changed with `-C, --capacity_port`
 - The `modele.py` module must be present in the same directory
 
 
